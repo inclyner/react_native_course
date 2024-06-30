@@ -15,5 +15,6 @@ This repository contains the code for a Full Stack React Native App developed fo
 - **Video Uploads**: Upload and manage video files.
 - **Video Sorting**: Sort videos based on different criteria.
 - **Authentication**: User login and logout functionalities.
+- **Profile Pictures**: Set uploaded images as profile pictures.
 
 
