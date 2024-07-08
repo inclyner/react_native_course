@@ -18,3 +18,26 @@ This repository contains the code for a Full Stack React Native App developed fo
 - **Profile Pictures**: Set uploaded images as profile pictures.
 
 
+Cloning the Repository
+
+git clone https://github.com/inclyner/react_native_course.git
+cd react_native_course
+
+Installation
+
+Install the project dependencies using npm:
+
+```
+npm install
+```
+Running the Project
+```
+npm start
+```
+Expo Go
+
+```
+npx expo start -c
+```
+
+Download the Expo Go app onto your device, then use it to scan the QR code from Terminal and run.
